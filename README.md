@@ -3,15 +3,11 @@
 ### Development
 - Finished ![Hopstarter-Rounded-Square-Button-Ok](https://user-images.githubusercontent.com/89811188/133524779-24574036-77dd-4a81-b579-8c9c0a6db52e.png)
 
-### Live Preview
-
-- [LIVE Preview](https://lepiigortv.com/github_websites/cyberpulse)
 
 ### Information
 
 - Cyberpulse Layout is now finished, Last Update: Day & Night Mode.
 
-- Official Website: https://lepiigortv.com
 - Download: https://opengamescommunity.com/index.php?resources/cyberpulse-layout.38/
 
 ### How to Install ?
